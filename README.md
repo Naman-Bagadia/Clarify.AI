@@ -22,3 +22,18 @@ Clarify is a calm, voice-friendly AI tutor web app that lets students ask questi
 4. Visit `http://localhost:5000` in your browser.
 
 ## 📁 Project Structure
+Clarify/
+│
+├── app.py                 
+├── ai_handler.py          
+├── requirements.txt       
+│
+├── templates/             
+│   └── chat.html          
+│
+├── static/                
+│   ├── style.css         
+│   └── script.js          
+│
+└── README.md              
+
